@@ -1,0 +1,166 @@
+========== HEADER ==========
+.nav__logo
+Food Lover
+
+.nav__link
+Home - Menu - Reviews - Our App - Find Us
+
+
+========== HOME ==========
+.home__title
+Enjoy Your Delicious <span>Food</span>
+
+.home__description
+We'll delight your stomach with a variety of delicious 
+home-delivered food, delivered quickly and without delay.
+
+.button
+Order Now
+
+.home__social
+https://m.me/bedimcode
+https://www.instagram.com/bedimcode/
+https://api.whatsapp.com/send?phone=51123456789&text=Hello, more information!
+https://web.telegram.org/
+
+.home__number
+Phone number:
+<span>+321(00)123-45-67</span>
+
+.home__comment
+Fast delivery and friendly staff. The food was good 
+and very tasty 10/10.
+
+
+========== SERVICE ==========
+.section__subtitle .section__title
+OUR SERVICE
+How Does It Work?
+
+.service__title .service__description
+Easy To Order
+You only need a few steps in ordering food.
+
+Fastest Delivery
+Always delivered on time and even faster.
+
+Best Quality
+Not only fast for us quality is also number one.
+
+
+========== MENU ==========
+.section__subtitle .section__title
+OUR MENU
+The Most Popular
+
+.menu__name .menu__amount .menu__price
+Meat <br> Burger
+Grill <br> Burger
+240g
+$9.90
+
+Pepperoni <br> Pizza
+Margherita <br> Pizza
+700g
+$14.90
+
+Soda <br> Glass
+Refreshing <br> Lemonade
+250 ml
+$3.90
+
+Cheese <br> Potatoes
+Spicy <br> Potatoes
+50g
+$2.90
+
+Mixed <br> Salad
+Healthy <br> Salad
+320g
+$4.90
+
+
+========== REVIEWS ==========
+.section__subtitle .section__title
+OUR REVIEWS
+What They Say?
+
+.reviews__name . reviews__number .reviews__comment
+Emy Hawkins
+Aliz Doe
+Anna Wlhix
+
+5.0
+
+Food is the best. Besides the many and delicious meals, 
+the service is also very good, especially in the very fast 
+delivery. I highly recommend food to you.
+
+
+========== APP ==========
+.section__subtitle .section__title
+OUR APP
+Simple Way To <br> Order Your Food
+
+.app__description
+Discover restaurants and food anywhere, anytime, and 
+have your order delivered to your door quickly.
+
+.button
+Get The App
+
+
+========== MAP ==========
+.section__subtitle .section__title
+OUR LOCATION
+Find Us On The Map
+
+/* Comments */
+Insert your location into Google Maps (https://www.google.com/maps)
+Click Share -> Embed Map -> Copy HTML
+
+.map__title .map__info
+Location
+Lima - Sun City - Peru <br> Av. Moon #4321
+
+Schedule
+Monday - Sunday <br> 24/7
+
+Phones
++321(00)123-45-67 <br> +11-1234567
+
+
+========== FOOTER ==========
+.footer__logo
+Food Lover
+
+.footer__description
+We will fill your tummy with <br> delicious food with fast delivery.
+
+.footer__social
+https://www.facebook.com/bedimcode
+https://www.instagram.com/bedimcode/
+https://x.com/bedimcode
+https://www.youtube.com/@Bedimcode
+
+.footer__title .footer__link
+Company
+  Why Food?
+  Partner with us
+  About us
+  FAQ
+
+Support
+  Account
+  Support center
+  Feedback
+  Contacts
+
+Stay Connected
+  Questions or feedback? we'd <br> love to hear from you.
+
+  Email address
+
+
+.footer__copy
+&#169; All Rights Reserved By Bedimcode
